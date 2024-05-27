@@ -1,6 +1,7 @@
 import HeroImg from '../assets/hero.png';
 import { AiOutlineTwitter,AiOutlineFacebook,AiOutlineInstagram,AiFillLinkedin } from "react-icons/ai";
 
+
 function Hero(){
     const config={
         subtitle:'Im a Full-stack developer ',
