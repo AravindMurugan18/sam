@@ -35,7 +35,7 @@ function Project(){
                   {config.projects.map((project)=>(
                           
                           <div className='relative'>
-                       <img className='h-[300px] w-[600px] justify-items-center 'src={project.image} />
+                       <img className='h-[300px] w-[600px] justify-center 'src={project.image} />
                      <div className='project-desc'>
                      <p className='text-center px-5 py-5'>{project.description}</p>
                      <div className='flex justify-center'>
