@@ -3,15 +3,16 @@ import WebSiteImg2 from '../assets/to-do-list-text-on-notepad.jpg'
 function Project(){
    const config={
       projects:[
-         {
-            image:WebsiteImg1,
-            description:'Crud App',
-            link:'https://aravindmurugan18.github.io/crud/'
-         },
+        
           {
             image:WebSiteImg2,
             description:'TodoList APP',
             link:'https://aravindmurugan18.github.io/todolist/'
+         },
+         {
+            image:WebsiteImg1,
+            description:'Crud App',
+            link:'https://aravindmurugan18.github.io/crud/'
          }
       // {
       //      image:WebSiteImg3,
