@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/sam/static/css/main.faec8ae9.css",
-    "main.js": "/sam/static/js/main.ecb0bf27.js",
+    "main.css": "/sam/static/css/main.759bd103.css",
+    "main.js": "/sam/static/js/main.b20c230a.js",
     "static/media/about.png": "/sam/static/media/about.619ff0b319a55d0c05b1.png",
     "static/media/hero.png": "/sam/static/media/hero.f14f30c6d01a97df04f6.png",
     "static/media/resume.jpg": "/sam/static/media/resume.40d9ec3d0701d254f50f.jpg",
-    "static/media/food-ecommerce.jpg": "/sam/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
-    "static/media/ecommerce-websites.jpg": "/sam/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
-    "static/media/website-blog.jpg": "/sam/static/media/website-blog.34169abf2d417858685b.jpg",
+    "static/media/to-do-list-text-on-notepad.jpg": "/sam/static/media/to-do-list-text-on-notepad.6e217bad4a6c2da5d5d4.jpg",
+    "static/media/crud.png": "/sam/static/media/crud.1c76533311dcf473df08.png",
     "index.html": "/sam/index.html",
-    "main.faec8ae9.css.map": "/sam/static/css/main.faec8ae9.css.map",
-    "main.ecb0bf27.js.map": "/sam/static/js/main.ecb0bf27.js.map"
+    "main.759bd103.css.map": "/sam/static/css/main.759bd103.css.map",
+    "main.b20c230a.js.map": "/sam/static/js/main.b20c230a.js.map"
   },
   "entrypoints": [
-    "static/css/main.faec8ae9.css",
-    "static/js/main.ecb0bf27.js"
+    "static/css/main.759bd103.css",
+    "static/js/main.b20c230a.js"
   ]
 }
