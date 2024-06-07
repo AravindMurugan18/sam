@@ -1,7 +1,7 @@
 import ResumeImg from'../assets/resume.jpg';
 function Resume(){
      const config={
-          link:'https://www.resumebuilder.com/resume-examples/nursing/'
+          link:'https://github.com/AravindMurugan18/pdf/blob/main/ARAVIND%20RESUME%20.pdf'
      }
    
 

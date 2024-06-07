@@ -1,25 +1,23 @@
-import WebsiteImg1 from '../assets/food-ecommerce.jpg';
-import WebSiteImg2 from '../assets/ecommerce-websites.jpg';
-import WebSiteImg3 from '../assets/website-blog.jpg';
-
+import WebsiteImg1 from '../assets/crud.png';
+import WebSiteImg2 from '../assets/to-do-list-text-on-notepad.jpg'
 function Project(){
    const config={
       projects:[
          {
             image:WebsiteImg1,
-            description:'A Food Ecommerce website',
-            link:''
+            description:'Crud App',
+            link:'https://aravindmurugan18.github.io/crud/'
          },
-         {
+          {
             image:WebSiteImg2,
-            description:'A  Ecommerce website',
-            link:''
-         },
-      {
-           image:WebSiteImg3,
-            description:'A  website-blog',
-            link:''
-      }
+            description:'TodoList APP',
+            link:'https://aravindmurugan18.github.io/todolist/'
+         }
+      // {
+      //      image:WebSiteImg3,
+      //       description:'A  website-blog',
+      //       link:''
+      // }
       ]
    }
    
@@ -37,7 +35,7 @@ function Project(){
                   {config.projects.map((project)=>(
                           
                           <div className='relative'>
-                       <img className='h-[200px] w-[500px] 'src={project.image}/>
+                       <img className='h-[300px] w-[600px] justify-items-center 'src={project.image} />
                      <div className='project-desc'>
                      <p className='text-center px-5 py-5'>{project.description}</p>
                      <div className='flex justify-center'>
